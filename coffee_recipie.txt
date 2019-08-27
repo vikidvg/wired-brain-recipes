@@ -1,5 +1,4 @@
 heat milk
 add sugar to milk while heating
-add tea powder
 when the mixure is boilled and started to overflow, turn off the heat
-serve the tea hot with sugar and leamon to be added as per individual taste preference
+serve the milk hot with coffee powder and sugar to be added as per individual taste preference
